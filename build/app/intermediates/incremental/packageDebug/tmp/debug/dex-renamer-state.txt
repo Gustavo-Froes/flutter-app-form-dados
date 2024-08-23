@@ -1,0 +1,4 @@
+#Wed Aug 21 14:34:29 BRT 2024
+base.0=C\:\\Users\\gusta\\dev\\flutter_app_form_dados\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,1 @@
+ C:\\Users\\gusta\\dev\\flutter_application_form\\.dart_tool\\flutter_build\\f0acabc483eef50049e46a36acb9aeb4\\native_assets.yaml: 
